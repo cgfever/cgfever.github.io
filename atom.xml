@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿季的作品集</title>
+  
+  
+  <link href="http://design.ijiaji.cc/atom.xml" rel="self"/>
+  
+  <link href="http://design.ijiaji.cc/"/>
+  <updated>2021-05-08T06:18:46.252Z</updated>
+  <id>http://design.ijiaji.cc/</id>
+  
+  <author>
+    <name>阿季</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to my Portfolio</title>
+    <link href="http://design.ijiaji.cc/2021/05/08/Portfolio/"/>
+    <id>http://design.ijiaji.cc/2021/05/08/Portfolio/</id>
+    <published>2021-05-08T05:36:13.510Z</published>
+    <updated>2021-05-08T06:18:46.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是阿季作品集，你可以点击<a href="https://design.ijiaji.cc/about">这里</a>来了解我。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这里是阿季作品集，你可以点击&lt;a href=&quot;https://design.ijiaji.cc/about&quot;&gt;这里&lt;/a&gt;来了解我。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
